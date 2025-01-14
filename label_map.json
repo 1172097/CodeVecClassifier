@@ -1,0 +1,9 @@
+{
+  "Backtracking": 0,
+  "Binary Search": 1,
+  "Bubble Sort": 2,
+  "Sliding Window": 3,
+  "BFS": 4,
+  "Two Pointers": 5,
+  "DFS": 6
+}
