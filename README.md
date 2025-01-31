@@ -1,6 +1,6 @@
 # CodeVecClassifier
 
-CodeVecClassifier is a deep learning model for classifying algorithms based on their source code, inspired by the code2vec paper. It uses path-based representations of code to generate embeddings and perform classification.
+CodeVecClassifier is a machine learning model for classifying algorithms based on their source code, inspired by the code2vec paper. It uses path-based representations of code to generate embeddings and perform classification.
 
 ## Architecture
 
